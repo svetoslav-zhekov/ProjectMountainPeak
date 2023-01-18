@@ -5,7 +5,7 @@ All the images, models, videos, sounds, music and logos in this project cannot b
 
 ## Branches
 * Always create a new branch for every single new feature or change!
-* Never push directly to main, always create a PR!
+* Never push directly to ```main```! Always create a PR and set target branch to ```dev```!
 * New branches are named in this way ```init|update|feature|fix``` then ```/``` and finally the name of the branch. If there is spacing in the branch name, replace spaces with ```-```. Example: ```feature/add-new-entity```.
 
 ## Commits
