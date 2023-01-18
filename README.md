@@ -22,3 +22,10 @@ All the images, videos, sounds, music and logos in this project are with illustr
 
 ## Comments
 * If something is unclear, always put down a comment, after the ```//``` put a space and write your comment message, start with a capital letter. Example: ```// Calculating distance from object```
+
+## Code
+* For private fields, use ```_``` as a prefix and name after with camel casing. Example: ```private string _helloWorld;```.
+* Protected fields, use camel casing, but do not have the ```_``` prefix.
+* For methods, classes, interfaces, enums and all base types, also for properties use pascale case. Example: ```public class HelloWorld```.
+* All interfaces start with ```I``` before their name. Example: ```IEntity```.
+* All enums end with ```Type```. Example: ```public enum PlayerStatusType```.
