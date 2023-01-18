@@ -11,6 +11,10 @@ All the images, videos, sounds, music and logos in this project are with illustr
 ## Commits
 * Commits are named almost the same way as branches, again before name we put ```init|update|feature|fix```, after this we use ```:``` and put commit message, you are allowed to use spaces in commit messages. Example: ```update: changed property name```.
 
+## Pull Requests
+* Always use Squash and Merge as a completion strategy!
+* Always double check everything before merging!
+
 # ℹ️ Project Conventions ℹ️
 
 ## Summaries
